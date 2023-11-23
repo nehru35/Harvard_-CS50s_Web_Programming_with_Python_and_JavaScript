@@ -1,0 +1,5 @@
+HTML (HyperText MArkup Language) - Describe structure of web page.
+CSS (Cascading Style Sheets) - Describe the style of web page
+
+
+Self closed tags are tags that content between tags!
